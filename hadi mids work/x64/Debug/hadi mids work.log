@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Student\source\repos\hadi mids work\hadi mids work\Source.cpp(42): error C4700: uninitialized local variable 'threshold' used
